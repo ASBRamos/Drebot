@@ -1,8 +1,0 @@
-{
-	"name": "DreBot",
-	"version": "0.1",
-	"description": "Drecake's discord bot. Guaranteed bugs present. If it's October, drecake is Spoopcake [U+1F47B]#3278",
-	"main": "bot.js",
-	"author": "Drecake#3278",
-	"dependencies": {}
-}

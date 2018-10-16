@@ -1,0 +1,18 @@
+Discord bot features
+
+- Given two users, get common steam games
+- Store API keys
+- Fetch steam wishlist
+- Store steam want to play
+- Reminders
+- Blacklist steam game from user's games list
+- Search and fetch steam game summary
+
+- GW2 Wishlist
+- GW2 Secret Santa functionality
+
+
+https://stackoverflow.com/questions/45269613/discord-userid-vs-userid for regex
+https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3 for code examples and style suggestions
+https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/ for the method im following
+https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa for api calls
